@@ -9,5 +9,5 @@ Config files config.conf and config.yaml
 handler is a quick demonstration of how handler works. 
 
 Use command
-> python3 <filename>
+> python3 test1.py
 
