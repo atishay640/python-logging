@@ -45,6 +45,6 @@ try:
   c = a / b
 except Exception as e:
   logging.error("Exception occurred", exc_info=True)
-  # or
+  logging.info("or")
   logging.exception("Exception occurred")
 
